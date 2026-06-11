@@ -84,7 +84,7 @@ python detect.py
 ---
 ## 📸 Demo
 
-<img width="640" height="480" alt="violation_2026-06-11_16-29-31" src="https://github.com/user-attachments/assets/847b6cb9-1842-4ab3-a8e2-1e54e554a2db" />
+<img width="640" height="480" alt="WhatsApp Image 2026-06-11 at 5 07 33 PM" src="https://github.com/user-attachments/assets/0a24ef8f-0679-4203-b9b8-8a288f9354e5" />
 
 
 ## 📸 Sample Output
