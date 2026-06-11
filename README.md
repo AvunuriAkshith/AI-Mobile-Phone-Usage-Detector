@@ -82,6 +82,10 @@ python detect.py
 6. Logs events with timestamps into a CSV file.
 
 ---
+## 📸 Demo
+
+<img width="640" height="480" alt="violation_2026-06-11_16-29-31" src="https://github.com/user-attachments/assets/847b6cb9-1842-4ab3-a8e2-1e54e554a2db" />
+
 
 ## 📸 Sample Output
 
